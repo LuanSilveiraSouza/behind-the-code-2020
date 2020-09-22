@@ -1,2 +1,3 @@
-# behind-the-code-2020
-Codes and Assets used in Behind The Code 2020 Marathon
+# Maratona Behind The Code 2020
+Repositório contendo os códigos, arquivos e soluções utilizadas nos 8 desafios da Maratona
+[Repositório Oficial dos desafios: ](https://github.com/maratonadev-br)
